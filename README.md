@@ -34,8 +34,7 @@ I recreated and visualized experimental results from the publication using open-
 ## 📚 Source Article
 
 - **Title:** *Programmable pH-responsive DNA origami nanorobots for targeted cancer therapy*
-- **Journal:** *Nature Nanotechnology*, 2023  
-- **Authors:** Joseph Liu, Baoquan Ding et al.  
+- **Journal:** *Nature Nanotechnology*, 2023    
 - **Link:** [https://www.nature.com/articles/s41565-024-01676-4](https://www.nature.com/articles/s41565-024-01676-4)
 
 ---
